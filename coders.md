@@ -6,6 +6,8 @@ tito
 andreu
 hector
 diego
-<<<<<<< HEAD
+yumi
+Angela
+diego
 Alejandra
 Deniz
