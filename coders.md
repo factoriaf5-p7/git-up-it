@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Huilen
 raul
 raul alhena
@@ -11,3 +11,6 @@ Angela
 diego
 Alejandra
 georgina
+Teresa
+Deniz
+Sebas
