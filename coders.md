@@ -8,13 +8,10 @@ diego
 yumi
 Angela
 Alejandra
+georgina
 Teresa
 Deniz
 AnaPozo
 Sebas
 trinidad
 carlos saiz
-Sebas
-ana maria
-=======
-
