@@ -5,8 +5,9 @@ raul alhena
 tito
 andreu
 hector
+diego
+yumi
 Angela
 diego
-<<<<<<< HEAD
 Alejandra
 georgina
