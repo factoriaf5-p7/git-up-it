@@ -17,4 +17,6 @@ trinidad
 carlos saiz
 Eva 
 roxy
+evangelos
+nuria
 ana villa
