@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Huilen
 raul
 raul alhena
@@ -12,3 +12,8 @@ diego
 Alejandra
 Teresa
 Deniz
+
+
+AnaPozo
+Sebas
+>>>>>>> feature/anapozo
